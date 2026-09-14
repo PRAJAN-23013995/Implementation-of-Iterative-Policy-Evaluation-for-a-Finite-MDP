@@ -192,8 +192,8 @@ def policy_evaluation(env, policy, gamma=0.99, theta=1e-8):
 
 V, iterations = policy_evaluation(env, policy, gamma, theta)
 
-print("Name:Bhuvaneshwaran H")
-print("Register Number:212223240018")
+print("Name:PRAJAN P")
+print("Register Number:212223240121")
 print("Number of Iterations:", iterations)
 
 print("\nState-Value Function:\n")
